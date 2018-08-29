@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pythonanywhere_test_package",
-    version="0.0.1",
+    version="0.0.2",
     author="PythonAnywhere Developers",
     author_email="developers@pythonanywhere.com",
     description="A package for testing",
