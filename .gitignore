@@ -1,0 +1,3 @@
+build/
+dist/
+pythonanywhere_test_package.egg-info/
